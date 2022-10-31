@@ -47,3 +47,8 @@ p {
 .about-poem p:last-of-type {
     font-style: italic;
 }
+
+a {
+    text-decoration: none;
+    font-style: italic;
+}
